@@ -1,6 +1,14 @@
 ![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-green)
 # 🏗️ Tall Building Preliminary Sizing Web App
+Preliminary Sizing of Tall Buildings with Dual Structural System
 
+Designing tall buildings requires an efficient balance between strength, stiffness, and constructability. One of the most widely used structural systems for high-rise buildings is the reinforced-concrete dual system, which combines:
+
+Central core walls (shear wall core)
+Perimeter moment-resisting frames
+Additional distributed shear walls (if required)
+
+This hybrid configuration provides both lateral stiffness and structural redundancy, making it suitable for seismic and wind-resistant design.
 A graphical web-based tool for **preliminary structural design of tall reinforced-concrete buildings**.
 
 ---
