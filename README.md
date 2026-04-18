@@ -1,3 +1,4 @@
+![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-green)
 # 🏗️ Tall Building Preliminary Sizing Web App
 
 A graphical web-based tool for **preliminary structural design of tall reinforced-concrete buildings**.
