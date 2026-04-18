@@ -102,7 +102,7 @@ It is **NOT** a substitute for:
 
 ### 🔹 Global Structural Response
 
-[lower.png](https://github.com/benyaminrazaziyan-afk/Tall-Building-Preliminary-Sizing-Streamlit-App/commit/fa0268cd80f3d21328fa59334d9bdcdb5c486edf)
+![Overview](overview.png)
 
 This section shows:
 
@@ -115,8 +115,7 @@ This section shows:
 
 ### 🔹 Lower Zone (High stiffness zone)
 
-[![Lower](images/lower.png)](https://github.com/benyaminrazaziyan-afk/Tall-Building-Preliminary-Sizing-Streamlit-App/commit/fa0268cd80f3d21328fa59334d9bdcdb5c486edf)
-
+![Lower](lower.png)
 * Thick core walls
 * Perimeter retaining walls
 * Maximum column dimensions
@@ -125,8 +124,7 @@ This section shows:
 
 ### 🔹 Middle Zone (Transition behavior)
 
-[![Middle](images/middle.png)](https://github.com/benyaminrazaziyan-afk/Tall-Building-Preliminary-Sizing-Streamlit-App/commit/fa0268cd80f3d21328fa59334d9bdcdb5c486edf)
-
+![Middle](middle.png)
 * Reduced wall thickness
 * Optimized column sizes
 * Partial perimeter wall distribution
@@ -135,7 +133,7 @@ This section shows:
 
 ### 🔹 Upper Zone (Flexible region)
 
-[![Upper](images/upper.png)](https://github.com/benyaminrazaziyan-afk/Tall-Building-Preliminary-Sizing-Streamlit-App/commit/fa0268cd80f3d21328fa59334d9bdcdb5c486edf)
+![Upper](upper.png)
 
 * Minimum wall thickness
 * Reduced structural demand
