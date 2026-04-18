@@ -102,7 +102,7 @@ It is **NOT** a substitute for:
 
 ### 🔹 Global Structural Response
 
-![Overview](images/overview.png)
+lower.png
 
 This section shows:
 
