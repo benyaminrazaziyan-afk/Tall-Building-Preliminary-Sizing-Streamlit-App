@@ -98,11 +98,51 @@ It is **NOT** a substitute for:
 
 ---
 
-## 📷 Example Output
+## 📷 Example Outputs
 
-(You should add screenshots here)
+### 🔹 Global Structural Response
+
+![Overview](images/overview.png)
+
+This section shows:
+
+* Total structural weight
+* Estimated vs target period
+* Global stiffness (K)
+* Drift
 
 ---
+
+### 🔹 Lower Zone (High stiffness zone)
+
+![Lower](images/lower.png)
+
+* Thick core walls
+* Perimeter retaining walls
+* Maximum column dimensions
+
+---
+
+### 🔹 Middle Zone (Transition behavior)
+
+![Middle](images/middle.png)
+
+* Reduced wall thickness
+* Optimized column sizes
+* Partial perimeter wall distribution
+
+---
+
+### 🔹 Upper Zone (Flexible region)
+
+![Upper](images/upper.png)
+
+* Minimum wall thickness
+* Reduced structural demand
+* More efficient material usage
+
+---
+
 
 ## ⚙️ Run Locally
 
