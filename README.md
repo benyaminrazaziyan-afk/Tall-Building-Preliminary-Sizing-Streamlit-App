@@ -2,6 +2,30 @@
 # 🏗️ Tall Building Preliminary Sizing Web App
 Preliminary Sizing of Tall Buildings with Dual Structural System
 
+The structural system is initially idealized as an equivalent single-degree-of-freedom (SDOF) model for rapid preliminary estimation of the fundamental period based on global mass and stiffness:
+
+$$
+M \ddot{u}(t) + K\,u(t) = 0
+$$
+
+$$
+T = 2\pi \sqrt{\frac{M}{K}}
+$$
+
+where $M$ is the effective modal mass and $K$ is the equivalent lateral stiffness of the system.
+
+For improved accuracy, the model is subsequently refined using a multi-degree-of-freedom (MDOF) representation:
+
+$$
+[M]\{\ddot{u}\} + [K]\{u\} = 0
+$$
+
+$$
+[K]\{\phi\} = \omega^2 [M]\{\phi}
+$$
+
+For each mode, the natural period is given by $T_i = \frac{2\pi}{\omega_i}$.
+
 Designing tall buildings requires an efficient balance between strength, stiffness, and constructability. One of the most widely used structural systems for high-rise buildings is the reinforced-concrete dual system, which combines:
 
 Central core walls (shear wall core)
